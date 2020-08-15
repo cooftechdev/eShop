@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{7748E243-E364-432F-9FD2-D2A370C73475}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="eShopSolution.WebApp/Program.cs">
+    <Files>
+      <File FileName="eShopSolution.WebApp/Startup.cs" Line="1" Column="1" />
+      <File FileName="eShopSolution.WebApp/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="eShopSolution.WebApp/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="eShopSolution.WebApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="eShopSolution.WebApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="eShopSolution.WebApp/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="eShopSolution.WebApp/Program.cs" Line="21" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eShopSolution" expanded="True">
+            <Node name="eShopSolution.WebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.eShopSolution.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
